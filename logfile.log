@@ -1,0 +1,22 @@
+2024-12-05 20:32:56,120 : INFO : test_formSubmission : Entering form data
+2024-12-05 20:32:56,120 : INFO : test_formSubmission : First name is: Kashyap
+2024-12-05 20:32:57,353 : INFO : test_formSubmission : Text received from application after submitting the form is: ×
+Success! The Form has been submitted successfully!.
+2024-12-05 20:32:57,789 : INFO : test_formSubmission : Entering form data
+2024-12-05 20:32:57,789 : INFO : test_formSubmission : First name is: Riya
+2024-12-05 20:32:58,238 : INFO : test_formSubmission : Text received from application after submitting the form is: ×
+Success! The Form has been submitted successfully!.
+2024-12-05 20:33:06,617 : INFO : test_formSubmission : Entering data from Excel sheet
+2024-12-05 20:33:06,644 : INFO : test_formSubmission : First name is: Meet
+2024-12-05 20:33:07,309 : INFO : test_formSubmission : Text received from application after submitting the form is: ×
+Success! The Form has been submitted successfully!.
+2024-12-05 20:33:07,624 : INFO : test_formSubmission : Entering data from Excel sheet
+2024-12-05 20:33:07,625 : INFO : test_formSubmission : First name is: Shivam
+2024-12-05 20:33:08,045 : INFO : test_formSubmission : Text received from application after submitting the form is: ×
+Success! The Form has been submitted successfully!.
+2024-12-05 20:33:16,893 : INFO : test_e2e : Getting all the card titles
+2024-12-05 20:33:16,980 : INFO : test_e2e : Nokia Edge
+2024-12-05 20:33:17,085 : INFO : test_e2e : Product has been added to cart
+2024-12-05 20:33:17,345 : INFO : test_e2e : Entering country name as ind
+2024-12-05 20:33:22,693 : INFO : test_e2e : Success message received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
